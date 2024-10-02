@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\USER\OneDrive\桌面\NTU\C++專題\LineMatchGame\main.cpp(12,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  LineMatchGame.vcxproj -> C:\Users\USER\OneDrive\桌面\NTU\C++專題\LineMatchGame\x64\Debug\LineMatchGame.exe
+  'pwsh.exe' 不是內部或外部命令、可執行的程式或批次檔。
